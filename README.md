@@ -1,3 +1,5 @@
+<img src="github-banner.png" alt="GitHub Banner" width="100%"/>
+
 # 💫 About Me:
 👋 Hi, I'm Methul!<br><br>💻 Computer Science Student | Aspiring Developer|AI & Robotics Explorer<br>💡 Turning ideas into reality through code.<br>🎓 Currently diving deep into React, blockchain, NFTS<br>🎯 Passionate about building innovative projects that solve real-world problems.<br><br>📬 Connect with Me: <br>📩 methul_silva@protonmail.com<br>🔗https://www.linkedin.com/in/methul-silva-8264aa293/<br><br>✨ "Keep building. Keep innovating!" 🚀  <br>
 
