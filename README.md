@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Methul!<br><br>💻 Computer Science Student | Aspiring Developer<br>💡 Turning ideas into reality through code.<br>🎓 Currently diving deep into React, blockchain, NFTS<br>🎯 Passionate about building innovative projects that solve real-world problems.<br><br>📬 Connect with Me: <br>📩 methul_silva@protonmail.com<br>🔗https://www.linkedin.com/in/methul-silva-8264aa293/<br><br>✨ "Keep building. Keep innovating!" 🚀  <br>
+👋 Hi, I'm Methul!<br><br>💻 Computer Science Student | Aspiring Developer|AI & Robotics Explorer<br>💡 Turning ideas into reality through code.<br>🎓 Currently diving deep into React, blockchain, NFTS<br>🎯 Passionate about building innovative projects that solve real-world problems.<br><br>📬 Connect with Me: <br>📩 methul_silva@protonmail.com<br>🔗https://www.linkedin.com/in/methul-silva-8264aa293/<br><br>✨ "Keep building. Keep innovating!" 🚀  <br>
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MethulSilva-CS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MethulSilva-CS&icon=0&color=0)](https://visitcount.itsvg.in)
