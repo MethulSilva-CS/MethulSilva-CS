@@ -67,8 +67,7 @@
 
 
 
-
-### ✍️ Random QA Quote
+### 🧪 QA Automation Quote
 ![QA Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
