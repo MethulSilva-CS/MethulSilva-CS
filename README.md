@@ -1,7 +1,20 @@
 <img src="github-banner.png" alt="GitHub Banner" width="100%"/>
 
 # 💫 About Me:
-👋 Hi, I'm Methul!<br><br>💻 Computer Science Student | Aspiring Developer|AI & Robotics Explorer<br>💡 Turning ideas into reality through code.<br>🎓 Currently diving deep into React, blockchain, NFTS<br>🎯 Passionate about building innovative projects that solve real-world problems.<br><br>📬 Connect with Me: <br>📩 methul_silva@protonmail.com<br>🔗https://www.linkedin.com/in/methul-silva-8264aa293/<br><br>✨ "Keep building. Keep innovating!" 🚀  <br>
+
+👋 Hi, I'm Methul!<br><br>
+
+💻 Computer Science Student | Aspiring Software QA Engineer | Developer<br>
+🧪 Passionate about Software Testing, Quality Assurance, and delivering reliable software solutions.<br>
+🔍 Exploring Manual Testing, Automation Testing, API Testing, and Software Quality Engineering practices.<br>
+🤖 Interested in AI, Robotics, and emerging technologies.<br>
+💡 Building and testing innovative projects while focusing on quality, performance, and user experience.<br><br>
+
+📬 Connect with Me:<br>
+📩 [methul_silva@protonmail.com](mailto:methul_silva@protonmail.com)<br>
+🔗 https://www.linkedin.com/in/methul-silva-8264aa293/<br><br>
+
+✨ "Learn. Test. Improve. Build better software." 🚀
 
 
 # 💻 Tech Stack:
