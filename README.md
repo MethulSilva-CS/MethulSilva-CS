@@ -68,8 +68,8 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random QA Quote
+![QA Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
