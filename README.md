@@ -7,7 +7,7 @@
 💻 Computer Science Student | Aspiring Software QA Engineer | Developer<br>
 🧪 Passionate about Software Testing, Quality Assurance, and delivering reliable software solutions.<br>
 🔍 Exploring Manual Testing, Automation Testing, API Testing, and Software Quality Engineering practices.<br>
-🤖 Interested in AI, Robotics, and emerging technologies.<br>
+🤖 Interested in AI and emerging technologies.<br>
 💡 Building and testing innovative projects while focusing on quality, performance, and user experience.<br><br>
 
 📬 Connect with Me:<br>
